@@ -1,4 +1,8 @@
 _repo: The-Marbeck-Inn-A-Novel_50131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50131-h/images/cover.jpg
 creator:
   author:
     agent_name: Brighouse, Harold
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2011'
     url: http://www.gutenberg.org/2009/agents/2011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50131#The-Marbeck-Inn-A-Novel
 gutenberg_issued: '2015-10-04'
 gutenberg_type: Text
 identifiers:
